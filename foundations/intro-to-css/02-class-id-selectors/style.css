@@ -6,11 +6,15 @@
     color: blue;
     font-size: 36px;
 }
-#number-three {
+/* 
+After finishing the task with the needed requirements I uploaded my code and started checking the results to see
+if my resolution of the task was correct. I finally found that I made two mistakes. I forgot to put the Hex colors, and also the font-size 
+for the numbers three and four, could've been under the same tags, but that never even came to mind.
+*/
+#number-three, #number-four {
     font-size: 24px;
 }
 #number-four {
     background-color: #90ee90;
-    font-size: 24px;
     font-weight: bold;
 }
